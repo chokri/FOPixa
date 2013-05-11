@@ -1,0 +1,15 @@
+{
+  "version": "1.1",
+  "name": "FO Pixa",
+  "launch_path": "index.html",
+  "description": "Application de traitement d'image.",
+  "icons": {
+    "128": "icon.png"
+  },
+  "developer": {
+    "name": "Chokri khalifa & hamdi hasnaoui",
+    "url": "http://khalifa-chokri.com"
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "en"
+}
