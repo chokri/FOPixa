@@ -22,6 +22,7 @@ If you have fixed a bug or implemented a feature that you'd like to share, send 
 
 
 CREDITS
+-------
 
 FOPixa leverages the following libraries:
 
